@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  font-size: 45px;
+  font-family: monospace;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-size: 18px;
+  font-family: monospace;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  font-family: bitter;
+}
+
+h4 {
+  font-size: 22px;
+  font-family: bitter;
+  color: black;
+}
+
+img {
+  width: 60%;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+  display: block;
+}
+
+main {
+  color: black;
+  font-size: 18px;
+  font-family: bitter;
+}
+
+div {
+  background: white;
+}
